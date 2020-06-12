@@ -15,7 +15,8 @@ export PYTHONPATH=$(pwd):${PYTHONPATH}
 ```
 
 ## Datasets
-We provide annotations, pretrained features on MSRVTT, TGIF, VATEX and Youtube2Text video captioning datasets, which can be downloaded from [BaiduNetdisk](https://pan.baidu.com/s/1wpmVP8eCClw5lR5BtILVoQ) (code: 7hbe).
+We provide annotations, pretrained features on MSRVTT, TGIF, VATEX and Youtube2Text video captioning datasets, which can be downloaded from [BaiduNetdisk](https://pan.baidu.com/s/1WuF0i1nd2uAtHzp8i8QLhA) (code: vxpi).
+
 
 ### Annotations
 
